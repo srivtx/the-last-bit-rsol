@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-zeroxpda_calculator = "C83UgiegNyYsLBawrJaMwUpfGjaCXFoQdQw7XmUqJ78B"
+zeroxpda_calculator = "Ek9j58LBsfzzeQ79uTnp2PJ2iobxtzoB89VybvgfJXPT"
 
 [provider]
 cluster = "localnet"
