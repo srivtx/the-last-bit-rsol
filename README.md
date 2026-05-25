@@ -9,6 +9,7 @@ handcoded projects of rust / solana ,  except this readme
 2. [**zeroxescrow**](zeroxescrow/) — minimal rust escrow with dual deposit tracking
 3. [**zeroxpda-calculator**](zeroxpda-calculator/) — solana anchor pda calculator program
 4. [**zeroxescrow-o1**](zeroxescrow-o1/) — anchor escrow scaffold with initialize and increment instructions
+5. [**zeroxamm-one**](zeroxamm-one/) — solana anchor constant-product amm with swap and slippage protection
 
 ## note
 
