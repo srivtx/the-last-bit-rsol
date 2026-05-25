@@ -1,7 +1,9 @@
-/target
-Cargo.lock
+**/target/
+**/Cargo.lock
 .anchor/
 node_modules/
 test-ledger/
 .DS_Store
 *.log
+amm_docs/
+do.md

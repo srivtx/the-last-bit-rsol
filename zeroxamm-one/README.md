@@ -38,6 +38,10 @@ All tests use LiteSVM (no validator needed).
 - `test_swap_a_to_b` — 100 A → 90 B with 1000/1000 pool
 - `test_swap_slippage_fails` — tx reverts when min_amount_out not met
 
+### Screenshot
+
+![All tests passing](test.png)
+
 ## Program ID
 
 ```
