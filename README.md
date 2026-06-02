@@ -10,6 +10,8 @@ handcoded projects of rust / solana ,  except this readme
 3. [**zeroxpda-calculator**](zeroxpda-calculator/) — solana anchor pda calculator program
 4. [**zeroxescrow-o1**](zeroxescrow-o1/) — anchor escrow scaffold with initialize and increment instructions
 5. [**zeroxamm-one**](zeroxamm-one/) — solana anchor constant-product amm with swap and slippage protection
+6. [**zeroxnft-staking**](zeroxnft-staking/) — Metaplex Core NFT staking (Assignment 1); docs in [nftstaking_docs](nftstaking_docs/)
+7. [**zerox01xnftstaking**](zerox01xnftstaking/) — Metaplex Core NFT staking scaffold (modern Anchor layout)
 
 ## note
 

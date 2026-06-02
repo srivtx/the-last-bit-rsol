@@ -1,0 +1,18 @@
+[toolchain]
+package_manager = "yarn"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+zeroxnft_staking = "B9ZYPDfh1uUuZTYrbJeigx8oumftp2oiq2JsL2FEdJF8"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "bash scripts/test.sh"
+
+[hooks]

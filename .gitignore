@@ -1,9 +1,19 @@
 **/target/
 **/Cargo.lock
 .anchor/
-node_modules/
+**/node_modules/
 test-ledger/
 .DS_Store
 *.log
 amm_docs/
 do.md
+
+# common local/editor files
+.env
+.env.*
+.idea/
+.vscode/
+
+# local notes (don't commit)
+nftstaking_docs/
+understand/
