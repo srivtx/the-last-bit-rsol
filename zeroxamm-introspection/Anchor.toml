@@ -1,0 +1,19 @@
+[toolchain]
+anchor_version = "0.31.1"
+package_manager = "yarn"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+zeroxamm_introspection = "7xKp2mNqR8vYw3tZfHjL9sDc4eUb6aFg1nXi5oPr7QwE"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "bash scripts/test.sh"
+
+[hooks]
